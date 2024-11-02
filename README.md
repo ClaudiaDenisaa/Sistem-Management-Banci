@@ -11,6 +11,7 @@ unic prin NUME și PRENUME. Fiecare cont este caracterizat prin:
 Dacă o persoană deține un cont, aceasta are acces deplin, adică poate:
 - CREA CONTUL
 - EDITA CONTUL 
+
 o Modificare date cont (IBAN / VALUTĂ / MONEDĂ)
 - ȘTERGE CONTUL
 - VIZUALIZA CONTUL
